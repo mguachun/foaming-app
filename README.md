@@ -1,24 +1,3 @@
-# README
+# Float App README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run app in local server, first run `bundle install` to install dependencies. Then run `rails s` to run local server. Navigate to http://localhost:3000 to view it in your browser. To start frontend run npm start. Link here: https://github.com/mguachun/foaming-client
